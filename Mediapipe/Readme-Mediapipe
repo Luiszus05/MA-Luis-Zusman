@@ -1,0 +1,6 @@
+README-mediapipe
+
+- In "media_model" wird das Dataset erstellt, das model definiert, trainiert und evaluiert.
+- In "mediapipe_test" kann das Modell ausprobiert werden.
+- "model1.h5" sind die gespeiocherten Gewichte für das von mir trainierte Modell.
+- "landmarks" ist das Dataset. in dieser CSV-Datei sind die bis jetzt 2157 Handkorrdinaten und die entsprechenden Labels abgespeichert.
